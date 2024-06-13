@@ -263,3 +263,20 @@ h1,h2,h3 {
 .footer{
     text-align: center;
 }
+
+/* Estilos para las alertas Sweet alert*/
+
+/* styles.css */
+
+.swal-contenedor {
+    font-family: 'Arial', sans-serif; /* Cambia la familia de fuentes según tus preferencias */
+    background-color: #fff; /* Cambia el color de fondo del contenedor de la alerta */
+    border-radius: 10px; /* Ajusta el radio de borde para redondear los bordes del contenedor */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Añade una sombra suave */
+  }
+  
+  .swal-popup-contenedor {
+    font-size: 1.7rem; /* Ajusta el tamaño de la fuente */
+    color: #333; /* Cambia el color del texto de la alerta */
+  }
+  
